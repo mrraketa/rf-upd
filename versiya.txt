@@ -1,4 +1,4 @@
-11
+12
 https://raw.githubusercontent.com/mrraketa/rf-upd/main/RovnyFPS.exe
-10d57aeeb9addb1851d822575c5ae04f98fb42a9237ac6fb0355e170c07e2231
-Одна программа: ограничение FPS, настройки Windows и NVIDIA в один клик, замер матча до и после
+e029ea6bcdb11f136efcf60d236289ecc4ec7b62ce79e1b7debe17f18afc6d7c
+Проверка кнопки «Обновить»: в программе ничего не изменилось
